@@ -1,0 +1,18 @@
+<resources>
+   <declare-styleable name="SimpleRangeBar">
+
+       <attr name="thickness" format="dimension" />
+       <attr name="padding" format="dimension" />
+       <attr name="colorThumb" format="color" />
+       <attr name="colorThumbPressed" format="color" />
+       <attr name="radiusThumb" format="dimension" />
+       <attr name="colorRangeBar" format="color" />
+       <attr name="colorRange" format="color" />
+
+       <attr name="minValue" format="integer" />
+       <attr name="maxValue" format="integer" />
+
+       <attr name="roundCorners" format="boolean" />
+
+   </declare-styleable>
+</resources>
