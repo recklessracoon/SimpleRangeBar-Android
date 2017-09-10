@@ -1,4 +1,4 @@
-package com.example.roman.simplerangebar;
+package com.example.roman.thesimplerangebarexample;
 
 import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import com.example.roman.thesimplerangebar.SimpleRangeBar;
 import com.example.roman.thesimplerangebar.SimpleRangeBarOnChangeListener;
-import com.example.roman.thesimplerangebarexampe.R;
 
 import java.util.Random;
 

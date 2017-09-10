@@ -1,4 +1,4 @@
-package com.example.roman.thesimplerangebarexampe;
+package com.example.roman.thesimplerangebarexample;
 
 import org.junit.Test;
 

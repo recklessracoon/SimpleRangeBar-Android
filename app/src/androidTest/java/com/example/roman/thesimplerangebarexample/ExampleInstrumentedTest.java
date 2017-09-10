@@ -1,4 +1,4 @@
-package com.example.roman.thesimplerangebarexampe;
+package com.example.roman.thesimplerangebarexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
