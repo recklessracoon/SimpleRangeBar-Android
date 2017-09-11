@@ -1,6 +1,6 @@
 # SimpleRangeBar-Android
 
-Two thumbed Seekbar-Like custom view for android.
+Two thumbed Seekbar-Like custom view for android. Below is a screenshot of the example app with additional textviews and a button.
 
 ![alt text](https://i.imgur.com/ruSgJyt.png)
 
